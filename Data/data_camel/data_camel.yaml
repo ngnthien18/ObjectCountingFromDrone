@@ -1,0 +1,7 @@
+path: /content/drive/MyDrive/Colab Notebooks/data_camel/
+train: 'train/images'
+val: 'train/images'
+test: 'test/images'
+# class names
+names: 
+  0: 'camel'

@@ -1,0 +1,10 @@
+- Tạo tài khoản PySimpleGui trên trang chủ https://www.pysimplegui.com/.
+Sau đó sẽ được cấp License key.
+- Dùng Visual Studio Code chạy file demokltn.py. Nhập License key được cấp.
+- Ở giao diện SORT. Thay đổi các đường dẫn đến mô hình và video. Đối với tập dữ liệu là traffic (car+truck)
+thì chọn model: best.pt, input video: demo1.mp4. Đối với tập dữ liệu camel thì chọn model: best_camel, input video: demo3.mp4
+- Chọn select ROI và vẽ ROI muốn vẽ.
+- Chọn Run.
+- Ở giao diện SFSORT. Thay đổi các đường dẫn tương tự như SORT.
+- Chọn select ROI và vẽ ROI muốn vẽ.
+- Chọn Run. 
